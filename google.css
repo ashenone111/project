@@ -1,0 +1,38 @@
+
+
+.font-red{
+    color:red;
+}
+
+.box-grey{
+    background-color: grey;
+}
+.box-large{
+    width:1500px;
+    height:80px;
+background-color: grey;
+}
+
+.box-white{
+    background-color: white;
+}
+
+.box-medium{
+    width:300px;
+    height:20px;
+}
+
+.box-square{
+    width: 440px;0px;
+    height:70px;
+    float:left;
+    margin:5px;
+    padding:10px;
+}
+.box-red{
+    background-color:red;
+}
+
+.box-blue{
+    background-color: aqua;
+}
