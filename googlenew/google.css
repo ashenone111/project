@@ -1,0 +1,54 @@
+
+
+.font-red{
+    color:red;
+}
+
+.box-grey{
+    background-color: grey;
+}
+.box-large{
+    width:1500px;
+    height:80px;
+background-color: grey;
+}
+
+.box-white{
+    background-color: white;
+}
+
+.box-medium{
+    width:500px;
+    height:50px;
+}
+
+.box-small{
+
+    width:150px;
+    height:50px;
+    padding:15px;
+    margin-left:10px;
+}
+.box-sans{
+    width:250px;
+    height:50px;
+}
+
+.box-square{
+    width: 440px;0px;
+    height:70px;
+    float:left;
+   
+    padding:20px;
+}
+.box-red{
+    background-color:red;
+}
+
+.box-blue{
+    background-color: aqua;
+}
+
+.float{
+    float:right;
+}
